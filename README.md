@@ -7,8 +7,8 @@ This project is ...
 
 ## Getting Started
 
-# Prerequisites 
+### Prerequisites 
 
-# Installation 
+### Installation 
 
 ## Running the App 
