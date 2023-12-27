@@ -2,8 +2,8 @@
 This project is ... 
 
 # Technologies 
-Frontend: React.js\
-Backend: MongoDB, Express.js, Node.js
+**Frontend:** React.js
+**Backend:** MongoDB, Express.js, Node.js
 
 ## Getting Started
 
