@@ -8,6 +8,8 @@ This project is ...
 ## Getting Started
 
 ### Prerequisites 
+First start by verifying that Node.js is installed by entering the following on your command line: 
+<p> node -v  </p>
 
 ### Installation 
 
