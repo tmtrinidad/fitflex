@@ -9,7 +9,9 @@ This project is ...
 
 ### Prerequisites 
 First start by verifying that Node.js is installed by entering the following on your command line: 
---- node -v ---
+```
+node -v
+```
 ### Installation 
 
 ## Running the App 
