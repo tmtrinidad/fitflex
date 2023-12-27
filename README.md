@@ -1,7 +1,7 @@
-### fitflex
+# fitflex
 This project is ... 
 
-# Technologies 
+## Technologies 
 **Frontend:** React.js <br>
 **Backend:** MongoDB, Express.js, Node.js
 
